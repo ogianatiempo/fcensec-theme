@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Syntax highlighting"
-date:   2019-11-06 01:11:00 +0100
-categories:
+title:  "/Natas0"
+author: Octa
+platform: Natas
 ---
 
-# Syntax highlighting
 This theme supports syntax respectively code highlighting. Below you find some examples of different programming languages.
 
 <br />ruby:
