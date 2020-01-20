@@ -2,4 +2,13 @@
 layout: default
 ---
 
+<div class="title" style="height:22px;padding-bottom:5px">
+    <h2 style="float:left;margin-top:0"> {{ page.title }}</h2>
+    {% if page.author %}
+    <h3 style="float:right;margin-top:0">Escrito por: {{page.author}}</h3>
+    {% endif %}
+</div>
+<br /> 
+<div>
 {{ content }}
+</div>
